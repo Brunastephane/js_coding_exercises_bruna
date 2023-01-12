@@ -28,9 +28,7 @@ Your terminal should respond with the version of Node you have installed. It wil
 
     v18.12.1
 
-Once you've got Node installed you can make a start - before you do please make sure to watch the [getting started video](https://storage.googleapis.com/your-return-to-tech/assessment-centre/assessment_exercises_guidance.mp4) as it walks you through instructions for getting started and the first exercise.
-
-#### [Getting started video](https://storage.googleapis.com/your-return-to-tech/assessment-centre/assessment_exercises_guidance.mp4)
+Once you've got Node installed you can make a start 
 
 ### 💻 Completing the challenges 
 
